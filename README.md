@@ -49,55 +49,37 @@
     <td><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="80"/></td>
     <td>
       <b>Microsoft Certified: Azure Fundamentals (AZ-900)</b><br>
-      <a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/">🔗 View Certification</a>
+      <a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/"></a>
     </td>
   </tr>
   <tr>
     <td><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="80"/></td>
     <td>
       <b>Microsoft Certified: Azure Administrator Associate (AZ-104)</b><br>
-      <a href="https://learn.microsoft.com/en-us/certifications/azure-administrator/">🔗 View Certification</a>
+      <a href="https://learn.microsoft.com/en-us/certifications/azure-administrator/"></a>
     </td>
   </tr>
-  <tr>
-    <td><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="80"/></td>
-    <td>
-      <b>Microsoft Certified: Azure Security Engineer Associate (AZ-500)</b><br>
-      <a href="https://learn.microsoft.com/en-us/certifications/azure-security-engineer/">🔗 View Certification</a>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="80"/></td>
-    <td>
-      <b>Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)</b><br>
-      <a href="https://learn.microsoft.com/en-us/certifications/security-compliance-and-identity-fundamentals/">🔗 View Certification</a>
-    </td>
-  </tr>
+
 </table>
 
 ### ☁️ AWS Certifications
 
 <table>
   <tr>
-    <td><img src="https://img.icons8.com/color/96/amazon-web-services.png" width="60"/></td>
-    <td>
-      <b>AWS Certified Cloud Practitioner (CLF-C01)</b><br>
-      <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">🔗 View Certification</a>
-    </td>
+   
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="60"/></td>
     <td>
       <b>AWS Certified Developer Associate (DVA-C02)</b><br>
-      <a href="https://aws.amazon.com/certification/certified-developer-associate/">🔗 View Certification</a>
+      <a href="https://aws.amazon.com/certification/certified-developer-associate/"></a>
     </td>
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="60"/></td>
     <td>
       <b>AWS Certified Solutions Architect Associate (SAA-C03)</b><br>
-      <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">🔗 View Certification</a>
-    </td>
+       </td>
   </tr>
 </table>
 
