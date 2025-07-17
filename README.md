@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Pranav Nalawade</h1>
-<h3 align="center">🚀 DevOps Engineer @ Tata Consultancy Services | Pune, India 🇮🇳</h3>
+<h3 align="center">🚀 DevOps Engineer @ Infosys | Pune, India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pranav278&style=for-the-badge&color=blueviolet" alt="profile-views" />
@@ -48,21 +48,21 @@
     <td><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="80"/></td>
     <td>
       <b>Microsoft Certified: Azure Fundamentals (AZ-900)</b><br>
-      <a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/">🔗 View Certification</a>
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/PRANAVPRADIPNALAWADE-6129/982175090E1AFDBE?sharingId=A848CEDE9E86F665/">🔗 View Certification</a>
     </td>
   </tr>
   <tr>
     <td><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="80"/></td>
     <td>
       <b>Microsoft Certified: Azure Administrator Associate (AZ-104)</b><br>
-      <a href="https://learn.microsoft.com/en-us/certifications/azure-administrator/">🔗 View Certification</a>
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/PRANAVPRADIPNALAWADE-6129/EFB8747EAA5D2B6A?sharingId=A848CEDE9E86F665/">🔗 View Certification</a>
     </td>
   </tr>
   <tr>
     <td><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="80"/></td>
     <td>
       <b>Microsoft Certified: DevOps Engineer Expert (AZ-400)</b><br>
-      <a href="https://learn.microsoft.com/en-us/certifications/devops-engineer/">🔗 View Certification</a>
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/PRANAVPRADIPNALAWADE-6129/E657EE85222058FC?sharingId=A848CEDE9E86F665/">🔗 View Certification</a>
     </td>
   </tr>
 </table>
@@ -74,7 +74,7 @@
     <td><img src="https://img.icons8.com/color/96/amazon-web-services.png" width="60"/></td>
     <td>
       <b>AWS Certified Cloud Practitioner (CLF-C01)</b><br>
-      <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">🔗 View Certification</a>
+      <a href="https://www.credly.com/badges/9b8bd45a-e533-49b9-a050-1a695809e1e1/public_url/">🔗 View Certification</a>
     </td>
   </tr>
 </table>
@@ -92,7 +92,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="mailto:pranav@example.com" target="_blank">
+  <a href="mailto:pranavnalawade24@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
