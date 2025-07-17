@@ -43,43 +43,39 @@
 
 ## 📜 Certifications
 ### 🏅 Microsoft Certifications
-
 <table>
   <tr>
     <td><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="80"/></td>
     <td>
       <b>Microsoft Certified: Azure Fundamentals (AZ-900)</b><br>
-      <a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/"></a>
+      <a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/">🔗 View Certification</a>
     </td>
   </tr>
   <tr>
     <td><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="80"/></td>
     <td>
       <b>Microsoft Certified: Azure Administrator Associate (AZ-104)</b><br>
-      <a href="https://learn.microsoft.com/en-us/certifications/azure-administrator/"></a>
+      <a href="https://learn.microsoft.com/en-us/certifications/azure-administrator/">🔗 View Certification</a>
     </td>
   </tr>
-
+  <tr>
+    <td><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="80"/></td>
+    <td>
+      <b>Microsoft Certified: DevOps Engineer Expert (AZ-400)</b><br>
+      <a href="https://learn.microsoft.com/en-us/certifications/devops-engineer/">🔗 View Certification</a>
+    </td>
+  </tr>
 </table>
 
 ### ☁️ AWS Certifications
 
 <table>
   <tr>
-   
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="60"/></td>
+    <td><img src="https://img.icons8.com/color/96/amazon-web-services.png" width="60"/></td>
     <td>
-      <b>AWS Certified Developer Associate (DVA-C02)</b><br>
-      <a href="https://aws.amazon.com/certification/certified-developer-associate/"></a>
+      <b>AWS Certified Cloud Practitioner (CLF-C01)</b><br>
+      <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">🔗 View Certification</a>
     </td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="60"/></td>
-    <td>
-      <b>AWS Certified Solutions Architect Associate (SAA-C03)</b><br>
-       </td>
   </tr>
 </table>
 
