@@ -8,7 +8,6 @@
 </p>
 
 ---
----
 
 ## 🚀 Current Focus
 - Let’s Decode DevOps Together – #DailyDose [![Substack Blog](https://img.shields.io/badge/Substack-PranavInfraBuild-orange?logo=substack)](https://substack.com/@pranavinfrabuild)
